@@ -1,1 +1,1 @@
-test -nbrgit2
+test -nbrgit-own2
